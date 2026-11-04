@@ -1,0 +1,13 @@
+# credentials — never commit
+user_credentials.json
+config/user_credentials.json
+*.local.json
+/tmp/
+
+# editor noise
+*.swp
+*~
+.DS_Store
+# python bytecode
+__pycache__/
+*.pyc
